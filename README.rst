@@ -1,6 +1,6 @@
-Modification to make djangocms-page-meta work with Django CMS 4.1::
+Modification to make djangocms-page-meta work with Django CMS 4.1 / 5::
 
-        $ pip install djangocms-page-meta-maykin
+        $ pip install https://github.com/PeterW-LWL/djangocms-page-meta.git
 
 
 ===================
@@ -11,11 +11,11 @@ djangocms-page-meta
 
 Meta tag information for django CMS 3 pages
 
-Python: 3.9, 3.10, 3.11
+Python: 3.9, 3.10, 3.11, 3.12
 
-Django: 3.2, 4.1, 4.2
+Django: 3.2, 4.2, 5.2
 
-django CMS: 3.9, 3.11
+django CMS: 4.1, 5
 
 
 **********
