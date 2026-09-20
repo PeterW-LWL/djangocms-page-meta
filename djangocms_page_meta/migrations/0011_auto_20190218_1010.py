@@ -10,9 +10,6 @@ class Migration(migrations.Migration):
     dependencies = [
         ("djangocms_page_meta", "0010_auto_20180108_2316"),
     ]
-    run_before = [
-        ("cms", "0032_remove_title_to_pagecontent"),  # before title is renamed
-    ]
 
     operations = [
         migrations.AlterField(
@@ -74,7 +71,7 @@ class Migration(migrations.Migration):
         migrations.AlterField(
             model_name="titlemeta",
             name="extended_object",
-            field=models.OneToOneField(editable=False, on_delete=django.db.models.deletion.CASCADE, to="cms.Title"),
+            field=models.OneToOneField(editable=False, on_delete=django.db.models.deletion.CASCADE, to="cms.PageContent"),
         ),
         migrations.AlterField(
             model_name="titlemeta",
