@@ -46,7 +46,7 @@ msgstr "Gemeinsam"
 
 #: models.py:26
 msgid "Used if title image is empty."
-msgstr "Wird verwendet, wenn das Titelbild ist leer ist."
+msgstr "Wird verwendet, wenn das Titelbild leer ist."
 
 #: models.py:30 models.py:61 models.py:65
 msgid "Resource type"
@@ -58,7 +58,7 @@ msgstr "Nutze Artikel für generische Seiten."
 
 #: models.py:38
 msgid "Author account"
-msgstr "Account des Autor"
+msgstr "Account des Autors"
 
 #: models.py:43
 msgid "Author Facebook URL"
@@ -66,7 +66,7 @@ msgstr "Facebook-URL des Autors"
 
 #: models.py:45
 msgid "Author Facebook ID"
-msgstr "Facebook-ID des Autor"
+msgstr "Facebook-ID des Autors"
 
 #: models.py:45
 msgid "Use Facebook numeric ID."
@@ -74,7 +74,7 @@ msgstr "Nutze die numerische Facebook-ID"
 
 #: models.py:47
 msgid "Website Facebook URL"
-msgstr "Facebook-URL der Wbsite"
+msgstr "Facebook-URL der Website"
 
 #: models.py:48
 msgid "Facebook App ID"
@@ -107,7 +107,7 @@ msgstr "Meta für Seite {0}"
 
 #: models.py:98
 msgid "If empty, page image will be used for all languages."
-msgstr "Wenn nicht gesetzt, wird das Seitenbild wird für alle Sprachen genutzt."
+msgstr "Wenn nicht gesetzt, wird das Seitenbild für alle Sprachen genutzt."
 
 #: models.py:103
 msgid "Facebook Description"
@@ -119,7 +119,7 @@ msgstr "Twitter-Beschreibung"
 
 #: models.py:106
 msgid "Schemaorg Name"
-msgstr ""
+msgstr "Schema.org Name"
 
 #: models.py:106
 msgid "Name of the item."
@@ -128,7 +128,7 @@ msgstr ""
 #: models.py:109
 #| msgid "Facebook Description"
 msgid "Schemaorg Description"
-msgstr ""
+msgstr "Schema.org Beschreibung"
 
 #: models.py:109
 msgid "Description of the item."
@@ -157,7 +157,7 @@ msgstr "Name"
 
 #: models.py:154
 msgid "Meta attribute name"
-msgstr "Name des Meta-Attribut"
+msgstr "Name des Meta-Attributs"
 
 #: models.py:157
 msgid "value"

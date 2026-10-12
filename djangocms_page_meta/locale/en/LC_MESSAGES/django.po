@@ -117,17 +117,15 @@ msgstr "Twitter Description"
 
 #: models.py:106
 msgid "Schemaorg Name"
-msgstr ""
+msgstr "Schema.org Name"
 
 #: models.py:106
 msgid "Name of the item."
 msgstr ""
 
 #: models.py:109
-#, fuzzy
-#| msgid "Facebook Description"
 msgid "Schemaorg Description"
-msgstr "Facebook Description"
+msgstr "Schema.org Description"
 
 #: models.py:109
 msgid "Description of the item."
